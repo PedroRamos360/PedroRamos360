@@ -1,3 +1,4 @@
 # hello-world
-Meu primeiro repositório github
-Meu nome é Pedro Ramos e eu gosto de programar com Python, C# e Javascript
+My first github repository
+My name is Pedro Ramos I live in Estrela, and I like to program with
+Python, C# and Javascript
