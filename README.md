@@ -16,7 +16,6 @@ I'm a Computer Science student at UFSM
 <br/>
 <br/>
 <br/>
-<br/>
 <div align="center">
     <h3>My Github stats: 📈</h3>
     <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=PedroRamos360&theme=midnight-purple&show_icons=true"
