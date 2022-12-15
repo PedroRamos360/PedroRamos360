@@ -1,45 +1,36 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<h2> Hello, I'm Pedro Ramos <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="2>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a Computer Science student at UFSM
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Free Lance Web Developer at fiverr [fiverr.com/PedroRamos180]
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 📈 I have built lots of websites and learn a lot of web developing from online courses and Rocketseat's events
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love to code with web applications with React and NodeJS 
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+<div align="center">
+    <h3>My Github stats: 📈</h3>
+    <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=PedroRamos360&theme=midnight-purple&show_icons=true"
+        style="margin: 5px"/>
+</div>
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<br/>
+<div align="center">
+  <h3>My most used tecnologies: </h3>
+</div>
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+<div style="display: inline_block" align="center">
+   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JS-FF7800?style=for-the-badge&logo=javascript&logoColor=white">
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-44B3E2?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="REACT" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img align="center"alt="NODEJS" src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white"> 
+    <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div>
