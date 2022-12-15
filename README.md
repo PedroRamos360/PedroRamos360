@@ -13,6 +13,10 @@ I'm a Computer Science student at UFSM
 
 - ❤️ I love to code with web applications with React and NodeJS 
 
+<br/>
+<br/>
+<br/>
+<br/>
 <div align="center">
     <h3>My Github stats: 📈</h3>
     <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=PedroRamos360&theme=midnight-purple&show_icons=true"
@@ -23,6 +27,8 @@ I'm a Computer Science student at UFSM
 <div align="center">
   <h3>My most used tecnologies: </h3>
 </div>
+
+<br/>
 
 <div style="display: inline_block" align="center">
    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
