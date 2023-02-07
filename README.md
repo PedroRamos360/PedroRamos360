@@ -7,7 +7,7 @@ I'm a Computer Science student at UFSM
 
 **About me**
 
-- 💼 Free Lance Web Developer at fiverr [fiverr.com/PedroRamos180]
+- 💼 Intern web developer at Forte Security, Santa Maria
 
 - 📈 I have built lots of websites and learn a lot of web developing from online courses and Rocketseat's events
 
