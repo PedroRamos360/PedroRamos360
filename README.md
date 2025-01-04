@@ -7,19 +7,19 @@ I'm a Computer Science student at UFSM
 
 **About me**
 
-- 💼 Intern web developer at Forte Security, Santa Maria
+- 💼 Fullstack web developer at Forte Security, Santa Maria RS
 
-- 📈 I have built lots of websites and learn a lot of web developing from online courses and Rocketseat's events
-
-- ❤️ I love to code with web applications with React and NodeJS 
+- 📈 I have experience developing professional fullstack applications using ReactJS, NodeJS, Typescript and also managing deployments in AWS and Cloudlfare 
 
 <br/>
 <br/>
 <br/>
 <div align="center">
-    <h3>My Github stats: 📈</h3>
-    <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=PedroRamos360&theme=midnight-purple&show_icons=true"
-        style="margin: 5px"/>
+  <h3>Projects I worked on: </h3>
+  <ul>
+      <li>Eskaller: eskaller.com</li>
+      <li>Privacy21: privacy21.com</li>
+  </ul>
 </div>
 
 <br/>
