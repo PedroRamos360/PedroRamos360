@@ -16,10 +16,10 @@ I'm a Computer Science student at UFSM
 <br/>
 <div align="center">
   <h3>Projects I worked on: </h3>
-  <ul>
-      <li>Eskaller: eskaller.com</li>
-      <li>Privacy21: privacy21.com</li>
-  </ul>
+  ![image](https://github.com/user-attachments/assets/e89a73e7-7e01-4f84-8610-335eb4834d23)
+  <a href="privacy21.com">Privacy21</a>
+  ![image](https://github.com/user-attachments/assets/aa21920b-cadb-40ae-96c0-952ca59efdf1)
+  <a href="eskaller.com">Eskaller</a>
 </div>
 
 <br/>
