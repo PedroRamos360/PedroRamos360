@@ -32,8 +32,6 @@ I'm a Computer Science student at UFSM
 <br/>
 
 <div style="display: inline_block" align="center">
-   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JS-FF7800?style=for-the-badge&logo=javascript&logoColor=white">
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-44B3E2?style=for-the-badge&logo=css3&logoColor=white">
