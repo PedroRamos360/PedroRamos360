@@ -18,7 +18,8 @@ I'm a Software Developer graduated in Computer Science at UFSM.
   <a href="https://www.nelogica.com.br/produtos">Profit</a>
   <br/>
   <img src="https://github.com/user-attachments/assets/e89a73e7-7e01-4f84-8610-335eb4834d23" />
-  <br/>
+  <br />
+  <br />
   <a href="https://privacy21.com">Privacy21</a>
   <br />
   <img src="https://github.com/user-attachments/assets/aa21920b-cadb-40ae-96c0-952ca59efdf1" />
