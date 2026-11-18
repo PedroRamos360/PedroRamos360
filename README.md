@@ -17,11 +17,11 @@ I'm a Computer Science student at UFSM
   <h3>Projects I worked on: </h3>
   <img src="https://github.com/user-attachments/assets/e89a73e7-7e01-4f84-8610-335eb4834d23" />
   <br/>
-  <a href="privacy21.com">Privacy21</a>
+  <a href="https://privacy21.com">Privacy21</a>
   <br />
   <img src="https://github.com/user-attachments/assets/aa21920b-cadb-40ae-96c0-952ca59efdf1" />
   <br />
-  <a href="eskaller.com">Eskaller</a>
+  <a href="https://eskaller.com">Eskaller</a>
 </div>
 
 <br/>
