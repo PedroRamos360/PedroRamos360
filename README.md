@@ -2,19 +2,20 @@
 
 <br />
 
-I'm a Computer Science student at UFSM
+I'm a Software Developer graduated in Computer Science at UFSM.
 
 **About me**
 
-- 💼 Fullstack web developer at Forte Security, Santa Maria RS
-
-- 📈 I have experience developing professional fullstack applications using ReactJS, NodeJS, Typescript and also managing deployments in AWS and Cloudlfare 
+- 💼 Desktop Software Developer at Nelogica, the largest investech in South America.
 
 <br/>
 <br/>
 <br/>
 <div align="center">
   <h3>Projects I worked on: </h3>
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4c09be22-d91c-4ad8-817a-eda919701e64" />
+  <br/>
+  <a href="https://www.nelogica.com.br/produtos">Profit</a>
   <img src="https://github.com/user-attachments/assets/e89a73e7-7e01-4f84-8610-335eb4834d23" />
   <br/>
   <a href="https://privacy21.com">Privacy21</a>
